@@ -1,0 +1,2 @@
+# distance_vector_simulator
+This program is a simulator for Distance Vector routing of a given network. The main goal of this project is to study the impact of different factors on the convergence times to optimal routes. Multiple files that represent different network topologies are used for testing. The simulator builds routing tables and then forward data packets until they reach their destinations based on the routing tables built.
